@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0118-pascals-triangle) |
 | [3429-special-array-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3429-special-array-i) |
 ## String
 |  |
@@ -13,4 +14,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
