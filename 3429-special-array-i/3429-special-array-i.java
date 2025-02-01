@@ -1,6 +1,6 @@
 class Solution {
     public boolean isArraySpecial(int[] nums) {
-        if(nums.length==0 || nums.length==1) return true;
+        // if(nums.length==0 || nums.length==1) return true;
         if(nums.length==2){
             return (nums[0]+nums[1])%2!=0;
         }
