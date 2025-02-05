@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0392-is-subsequence) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Dynamic Programming
 |  |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+## Hash Table
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
