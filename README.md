@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0392-is-subsequence) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Linked List
+|  |
+| ------- |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
