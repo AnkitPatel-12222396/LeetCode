@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2551-apply-operations-to-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2551-apply-operations-to-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Backtracking
 |  |
