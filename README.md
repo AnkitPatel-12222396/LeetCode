@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0768-partition-labels) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0768-partition-labels](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0768-partition-labels) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0768-partition-labels) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
