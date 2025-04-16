@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
