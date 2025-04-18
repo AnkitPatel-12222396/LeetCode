@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0768-partition-labels) |
