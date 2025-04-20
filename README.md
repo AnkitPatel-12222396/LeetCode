@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0797-rabbits-in-forest](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0967-minimum-falling-path-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1086-divisor-game) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1364-tuple-with-same-product) |
