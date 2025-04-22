@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1086-divisor-game) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Bit Manipulation
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1086-divisor-game) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Depth-First Search
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Enumeration
 |  |
 | ------- |
