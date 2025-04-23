@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1086-divisor-game) |
+| [1500-count-largest-group](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1500-count-largest-group](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
