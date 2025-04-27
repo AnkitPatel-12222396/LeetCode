@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3429-special-array-i) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
 |  |
 | ------- |
