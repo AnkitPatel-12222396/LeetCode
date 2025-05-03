@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0967-minimum-falling-path-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1036-rotting-oranges) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1364-tuple-with-same-product](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
