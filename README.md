@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1086-divisor-game) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
