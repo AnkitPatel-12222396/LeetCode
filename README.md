@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3429-special-array-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3639-zero-array-transformation-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Linked List
 |  |
 | ------- |
