@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1086-divisor-game) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Brainteaser
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1500-count-largest-group](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -378,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
