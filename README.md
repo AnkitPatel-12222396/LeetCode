@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-find-if-path-exists-in-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Combinatorics
 |  |
 | ------- |
