@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0135-candy) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0797-rabbits-in-forest) |
