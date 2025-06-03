@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
