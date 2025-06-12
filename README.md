@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0768-partition-labels](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0768-partition-labels) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1013-fibonacci-number) |
