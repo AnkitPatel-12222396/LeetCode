@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1013-fibonacci-number) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -274,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
