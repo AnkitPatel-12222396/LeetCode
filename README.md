@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0189-rotate-array) |
