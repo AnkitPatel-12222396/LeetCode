@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0120-triangle) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0368-largest-divisible-subset) |
