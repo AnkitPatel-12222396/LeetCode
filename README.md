@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0485-max-consecutive-ones](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0741-cherry-pickup) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
@@ -476,4 +479,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
