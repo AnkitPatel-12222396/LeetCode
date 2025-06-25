@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0493-reverse-pairs) |
 | [0907-koko-eating-bananas](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
