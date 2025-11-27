@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2536-increment-submatrices-by-one](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2551-apply-operations-to-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1036-rotting-oranges) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2536-increment-submatrices-by-one](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2536-increment-submatrices-by-one](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3639-zero-array-transformation-i) |
