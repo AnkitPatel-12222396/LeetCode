@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1590-make-sum-divisible-by-p](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2048-build-array-from-permutation](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2551-apply-operations-to-an-array](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AnkitPatel-12222396/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
